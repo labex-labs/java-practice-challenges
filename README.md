@@ -11,10 +11,10 @@ This course contains lots of challenges for Java, each challenge is a small Java
 
 |   Index | Name                                                    | Difficulty   | Practice                                                                   |
 |---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------|
-|     001 | 🎯 Outputting Triangle With Out Object                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300387'>Start Challenge</a> |
+|     001 | 🎯 Outputting Triangle With Out Object (Challenge)       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300387'>Start Challenge</a> |
 |     002 | 🎯 Sibling Money Division Game                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/270905'>Start Challenge</a> |
 |     003 | 🎯 Sum of Three-Digit Number's Digits                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211066'>Start Challenge</a> |
-|     004 | 🎯 Displaying Proverb on Web Page with JSP               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300385'>Start Challenge</a> |
+|     004 | 🎯 Displaying Proverb on Web Page with JSP (Challenge... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300385'>Start Challenge</a> |
 |     005 | 🎯 Sum Of Large Numbers                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/255362'>Start Challenge</a> |
 |     006 | 🎯 Optimal Coin Selection for Spring Purchase            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/262418'>Start Challenge</a> |
 |     007 | 🎯 Strength Training with Accumulative Method            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/293449'>Start Challenge</a> |
@@ -23,7 +23,7 @@ This course contains lots of challenges for Java, each challenge is a small Java
 |     010 | 🎯 Fun Code Completion                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/267115'>Start Challenge</a> |
 |     011 | 🎯 Point Inside a Triangle                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271660'>Start Challenge</a> |
 |     012 | 🎯 No Money Jewelry Store Marketing                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/262421'>Start Challenge</a> |
-|     013 | 🎯 Unit Testing Java Student Class                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300401'>Start Challenge</a> |
+|     013 | 🎯 Unit Testing Java Student Class (Challenge)           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300401'>Start Challenge</a> |
 |     014 | 🎯 Summoning Elves Gameplay                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/265029'>Start Challenge</a> |
 |     015 | 🎯 Implementing String Split                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/216610'>Start Challenge</a> |
 |     016 | 🎯 Solving Apple Distribution Problem with Exceptions    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/249022'>Start Challenge</a> |
@@ -31,41 +31,41 @@ This course contains lots of challenges for Java, each challenge is a small Java
 |     018 | 🎯 Kong Rong's Generosity                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/262779'>Start Challenge</a> |
 |     019 | 🎯 Remove Duplicate Numbers                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/209842'>Start Challenge</a> |
 |     020 | 🎯 Simple Student Management System                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268262'>Start Challenge</a> |
-|     021 | 🎯 Counting Access Times by IP                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300351'>Start Challenge</a> |
-|     022 | 🎯 MyBatis Database Integration Project                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300373'>Start Challenge</a> |
-|     023 | 🎯 Chinese-English Information Switching via IoC         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300347'>Start Challenge</a> |
-|     024 | 🎯 Configuring With YAML Files                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300349'>Start Challenge</a> |
+|     021 | 🎯 Counting Access Times by IP (Challenge)               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300351'>Start Challenge</a> |
+|     022 | 🎯 MyBatis Database Integration Project (Challenge)      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300373'>Start Challenge</a> |
+|     023 | 🎯 Chinese-English Information Switching via IoC (Cha... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300347'>Start Challenge</a> |
+|     024 | 🎯 Configuring With YAML Files (Challenge)               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300349'>Start Challenge</a> |
 |     025 | 🎯 Configuring Class Parameters with Annotations         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271809'>Start Challenge</a> |
 |     026 | 🎯 Define Your Annotations                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/270910'>Start Challenge</a> |
 |     027 | 🎯 Searching in a Two-Dimensional Array                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/213993'>Start Challenge</a> |
 |     028 | 🎯 Reflectively Create A Person Object                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/250493'>Start Challenge</a> |
 |     029 | 🎯 Modifying the Teacher Table Using PreparedStatemen... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301361'>Start Challenge</a> |
-|     030 | 🎯 Query Teacher Salary Using PreparedStatement          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301389'>Start Challenge</a> |
-|     031 | 🎯 Statement for Querying Classroom Table                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301411'>Start Challenge</a> |
-|     032 | 🎯 University Information Query System                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301421'>Start Challenge</a> |
-|     033 | 🎯 Receive Request Parameters with JavaBean              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300375'>Start Challenge</a> |
+|     030 | 🎯 Query Teacher Salary Using PreparedStatement (Chal... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301389'>Start Challenge</a> |
+|     031 | 🎯 Statement for Querying Classroom Table (Challenge)    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301411'>Start Challenge</a> |
+|     032 | 🎯 University Information Query System (Challenge)       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301421'>Start Challenge</a> |
+|     033 | 🎯 Receive Request Parameters with JavaBean (Challeng... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300375'>Start Challenge</a> |
 |     034 | 🎯 The Magical Pocket                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/272378'>Start Challenge</a> |
 |     035 | 🎯 Understanding Constant Pool                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/219203'>Start Challenge</a> |
 |     036 | 🎯 Storing Data Information Using TreeSet                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/269017'>Start Challenge</a> |
 |     037 | 🎯 String Information Statistics                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/210114'>Start Challenge</a> |
-|     038 | 🎯 Bulk Insert Data Into Course Schedule                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300345'>Start Challenge</a> |
+|     038 | 🎯 Bulk Insert Data Into Course Schedule (Challenge)     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300345'>Start Challenge</a> |
 |     039 | 🎯 Usage of Stream                                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/215207'>Start Challenge</a> |
 |     040 | 🎯 Storing Data Information Using HashSet                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/213991'>Start Challenge</a> |
-|     041 | 🎯 Spring IoC Employee Management System                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300399'>Start Challenge</a> |
-|     042 | 🎯 Student Management Module Unit Testing                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300403'>Start Challenge</a> |
+|     041 | 🎯 Spring IoC Employee Management System (Challenge)     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300399'>Start Challenge</a> |
+|     042 | 🎯 Student Management Module Unit Testing (Challenge)    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300403'>Start Challenge</a> |
 |     043 | 🎯 Concurrent Execution of Threads                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/205257'>Start Challenge</a> |
 |     044 | 🎯 Data Sharing Problem in Ticketing System              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/210117'>Start Challenge</a> |
 |     045 | 🎯 Producer-Consumer Queue Implementation                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/258975'>Start Challenge</a> |
 |     046 | 🎯 Running Data Alternately In Three Groups              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/219042'>Start Challenge</a> |
-|     047 | 🎯 Use Properties to Modify Database Configuration       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300405'>Start Challenge</a> |
-|     048 | 🎯 Displaying Query Results Using EL Expressions         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300359'>Start Challenge</a> |
+|     047 | 🎯 Use Properties to Modify Database Configuration (C... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300405'>Start Challenge</a> |
+|     048 | 🎯 Displaying Query Results Using EL Expressions (Cha... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300359'>Start Challenge</a> |
 |     049 | 🎯 String class methods                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/204444'>Start Challenge</a> |
 |     050 | 🎯 String Class Constructors                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/219321'>Start Challenge</a> |
 |     051 | 🎯 Rewriting the equals method                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/205348'>Start Challenge</a> |
 |     052 | 🎯 Spare Me, My Lord                                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/263807'>Start Challenge</a> |
 |     053 | 🎯 The Wandering Earth                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/296226'>Start Challenge</a> |
 |     054 | 🎯 Validating ID Card Number                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/290710'>Start Challenge</a> |
-|     055 | 🎯 Setting Up Spring Development Environment             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300397'>Start Challenge</a> |
+|     055 | 🎯 Setting Up Spring Development Environment (Challen... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300397'>Start Challenge</a> |
 |     056 | 🎯 The Wish of Five Cents                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/266828'>Start Challenge</a> |
 |     057 | 🎯 Love at First Sight                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/263966'>Start Challenge</a> |
 |     058 | 🎯 Substring Occurrence Count                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/209731'>Start Challenge</a> |
@@ -78,18 +78,18 @@ This course contains lots of challenges for Java, each challenge is a small Java
 |     065 | 🎯 Spaceship Speed Control                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/266536'>Start Challenge</a> |
 |     066 | 🎯 Dining Philosophers Synchronization                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/266124'>Start Challenge</a> |
 |     067 | 🎯 Configuration File Content                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/289519'>Start Challenge</a> |
-|     068 | 🎯 Druid Database Connection Pool Access                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300361'>Start Challenge</a> |
+|     068 | 🎯 Druid Database Connection Pool Access (Challenge)     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300361'>Start Challenge</a> |
 |     069 | 🎯 Yin and Yang                                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/266730'>Start Challenge</a> |
 |     070 | 🎯 Blossoms Compete for Beauty                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/266122'>Start Challenge</a> |
 |     071 | 🎯 Building and Deploying Spring Boot                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/293298'>Start Challenge</a> |
-|     072 | 🎯 Recording Web Page Accesses Using Listeners           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300393'>Start Challenge</a> |
-|     073 | 🎯 First Program With Quartz Framework                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300365'>Start Challenge</a> |
+|     072 | 🎯 Recording Web Page Accesses Using Listeners (Chall... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300393'>Start Challenge</a> |
+|     073 | 🎯 First Program With Quartz Framework (Challenge)       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300365'>Start Challenge</a> |
 |     074 | 🎯 Modify Weapon Design Using Inheritance                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/262775'>Start Challenge</a> |
 |     075 | 🎯 User Registration Validation with Exceptions          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/258960'>Start Challenge</a> |
 |     076 | 🎯 Classify Words by Parts of Speech                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/270907'>Start Challenge</a> |
 |     077 | 🎯 The Wall Has Ears                                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/262420'>Start Challenge</a> |
-|     078 | 🎯 Adding Large Integers                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/179620'>Start Challenge</a> |
-|     079 | 🎯 Image Upload Based on TCP Protocol                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300367'>Start Challenge</a> |
+|     078 | 🎯 Solving Large Integer Addition                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/179620'>Start Challenge</a> |
+|     079 | 🎯 Image Upload Based on TCP Protocol (Challenge)        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300367'>Start Challenge</a> |
 |     080 | 🎯 Flow Control Statements for Multiple Requirements     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/270380'>Start Challenge</a> |
 |     081 | 🎯 Servlet User Information Query                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/272382'>Start Challenge</a> |
 |     082 | 🎯 SAX Parsing XML Data                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/269016'>Start Challenge</a> |
@@ -105,47 +105,47 @@ This course contains lots of challenges for Java, each challenge is a small Java
 |     092 | 🎯 Rescue Princess with Conditional Execution            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/185191'>Start Challenge</a> |
 |     093 | 🎯 Alien Cell Fission                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/176588'>Start Challenge</a> |
 |     094 | 🎯 Number of Palindromic Numbers                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/189393'>Start Challenge</a> |
-|     095 | 🎯 Excluding Multiples of 3                              | ★★☆          | <a target='_blank' href='https://labex.io/labs/110080'>Start Challenge</a> |
+|     095 | 🎯 Exclude Multiples of Three from Numbers               | ★★☆          | <a target='_blank' href='https://labex.io/labs/110080'>Start Challenge</a> |
 |     096 | 🎯 Parsing XML Data Information with DOM                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/266732'>Start Challenge</a> |
 |     097 | 🎯 Primitive Types to Wrapper Classes                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/109997'>Start Challenge</a> |
 |     098 | 🎯 Calculating Area of Two Triangles                     | ★★☆          | <a target='_blank' href='https://labex.io/labs/109959'>Start Challenge</a> |
 |     099 | 🎯 Creating Enum Class - Size                            | ★★☆          | <a target='_blank' href='https://labex.io/labs/110005'>Start Challenge</a> |
-|     100 | 🎯 Calculate Rectangle Area                              | ★★☆          | <a target='_blank' href='https://labex.io/labs/109956'>Start Challenge</a> |
+|     100 | 🎯 Calculate Rectangle Dimensions                        | ★★☆          | <a target='_blank' href='https://labex.io/labs/109956'>Start Challenge</a> |
 |     101 | 🎯 Calculate BMI Using Weight and Height                 | ★★☆          | <a target='_blank' href='https://labex.io/labs/109963'>Start Challenge</a> |
-|     102 | 🎯 Simple Interest Calculator                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/109967'>Start Challenge</a> |
+|     102 | 🎯 Calculate Interest Based on Principal                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/109967'>Start Challenge</a> |
 |     103 | 🎯 Fahrenheit to Celsius Conversion Program              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/109989'>Start Challenge</a> |
-|     104 | 🎯 Kilometers to Miles Converter                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/109993'>Start Challenge</a> |
+|     104 | 🎯 Convert Between Kilometers And Miles Using Java       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/109993'>Start Challenge</a> |
 |     105 | 🎯 Pound to Kilogram Conversion Program                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/109995'>Start Challenge</a> |
-|     106 | 🎯 Dividing Chocolates Among Children                    | ★★☆          | <a target='_blank' href='https://labex.io/labs/110007'>Start Challenge</a> |
-|     107 | 🎯 Cube Volume Calculator                                | ★★☆          | <a target='_blank' href='https://labex.io/labs/110026'>Start Challenge</a> |
-|     108 | 🎯 Calculating Maximum Number of Handshakes              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/110062'>Start Challenge</a> |
+|     106 | 🎯 Distribute Chocolates To Children                     | ★★☆          | <a target='_blank' href='https://labex.io/labs/110007'>Start Challenge</a> |
+|     107 | 🎯 Calculate Cube Volume From Side                       | ★★☆          | <a target='_blank' href='https://labex.io/labs/110026'>Start Challenge</a> |
+|     108 | 🎯 Determine Maximum Handshakes Among Students           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/110062'>Start Challenge</a> |
 |     109 | 🎯 Shop Profit/Loss Calculator                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/110108'>Start Challenge</a> |
 |     110 | 🎯 Swapping Two Numbers with Temp                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/110131'>Start Challenge</a> |
 |     111 | 🎯 Calculating the Volume of a Cylinder                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/177928'>Start Challenge</a> |
-|     112 | 🎯 Calculating Employee Bonus Amount                     | ★★★          | <a target='_blank' href='https://labex.io/labs/110009'>Start Challenge</a> |
+|     112 | 🎯 Calculate Employee Bonus Based Salary                 | ★★★          | <a target='_blank' href='https://labex.io/labs/110009'>Start Challenge</a> |
 |     113 | 🎯 Calculate the Factorial of a Number                   | ★★☆          | <a target='_blank' href='https://labex.io/labs/110017'>Start Challenge</a> |
 |     114 | 🎯 Calculate Percentage with Arrays                      | ★★☆          | <a target='_blank' href='https://labex.io/labs/110024'>Start Challenge</a> |
 |     115 | 🎯 Calculate Mean Height of Players                      | ★★☆          | <a target='_blank' href='https://labex.io/labs/110064'>Start Challenge</a> |
-|     116 | 🎯 Multiplying Array Elements by 10                      | ★★☆          | <a target='_blank' href='https://labex.io/labs/110077'>Start Challenge</a> |
+|     116 | 🎯 Multiply Array By Ten                                 | ★★☆          | <a target='_blank' href='https://labex.io/labs/110077'>Start Challenge</a> |
 |     117 | 🎯 Calculating Power of a Number                         | ★★☆          | <a target='_blank' href='https://labex.io/labs/110090'>Start Challenge</a> |
 |     118 | 🎯 Calculating Sum of Natural Numbers                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/110129'>Start Challenge</a> |
-|     119 | 🎯 Counting Digits in an Integer                         | ★★☆          | <a target='_blank' href='https://labex.io/labs/109999'>Start Challenge</a> |
+|     119 | 🎯 Counting Digits In An Integer                         | ★★☆          | <a target='_blank' href='https://labex.io/labs/109999'>Start Challenge</a> |
 |     120 | 🎯 Reverse a Number Program                              | ★★☆          | <a target='_blank' href='https://labex.io/labs/110116'>Start Challenge</a> |
 |     121 | 🎯 Calculate Sum of Digits                               | ★★☆          | <a target='_blank' href='https://labex.io/labs/110127'>Start Challenge</a> |
 |     122 | 🎯 Verifying Class Instance                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/109979'>Start Challenge</a> |
 |     123 | 🎯 Print Even Numbers from Array                         | ★★☆          | <a target='_blank' href='https://labex.io/labs/110013'>Start Challenge</a> |
-|     124 | 🎯 Finding Factors of a Number                           | ★★☆          | <a target='_blank' href='https://labex.io/labs/110014'>Start Challenge</a> |
+|     124 | 🎯 Determine Factors of a Number                         | ★★☆          | <a target='_blank' href='https://labex.io/labs/110014'>Start Challenge</a> |
 |     125 | 🎯 Finding the GCD of Two Numbers                        | ★★☆          | <a target='_blank' href='https://labex.io/labs/110034'>Start Challenge</a> |
 |     126 | 🎯 Area of Circle with Any Radius                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/172023'>Start Challenge</a> |
 |     127 | 🎯 Calculating the Volume of a Cube                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/177925'>Start Challenge</a> |
 |     128 | 🎯 Java Engineer Salary Calculation                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/188208'>Start Challenge</a> |
-|     129 | 🎯 Find Smallest Element in Array                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/110120'>Start Challenge</a> |
+|     129 | 🎯 Find Smallest Array Element                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/110120'>Start Challenge</a> |
 |     130 | 🎯 Fibonacci Sequence Programming                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/177870'>Start Challenge</a> |
 |     131 | 🎯 Implementing String Utility Class                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/188859'>Start Challenge</a> |
-|     132 | 🎯 Determining Voting Eligibility                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/109971'>Start Challenge</a> |
+|     132 | 🎯 Voting Eligibility Determination Program              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/109971'>Start Challenge</a> |
 |     133 | 🎯 Determining Even or Odd                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/109973'>Start Challenge</a> |
 |     134 | 🎯 Determining Equality of Two Arguments                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/109975'>Start Challenge</a> |
-|     135 | 🎯 Leap Year Checker                                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/109981'>Start Challenge</a> |
+|     135 | 🎯 Validate Leap Year Condition                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/109981'>Start Challenge</a> |
 |     136 | 🎯 Check Pass, Fail, or Invalid                          | ★★☆          | <a target='_blank' href='https://labex.io/labs/109983'>Start Challenge</a> |
 |     137 | 🎯 Find Youngest Brother                                 | ★★☆          | <a target='_blank' href='https://labex.io/labs/110028'>Start Challenge</a> |
 |     138 | 🎯 Determine Student Grade                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/110038'>Start Challenge</a> |
@@ -158,7 +158,7 @@ This course contains lots of challenges for Java, each challenge is a small Java
 |     145 | 🎯 Find Largest Multiple Less Than 100                   | ★★☆          | <a target='_blank' href='https://labex.io/labs/110041'>Start Challenge</a> |
 |     146 | 🎯 Finding Prime Numbers in Intervals                    | ★★★          | <a target='_blank' href='https://labex.io/labs/110094'>Start Challenge</a> |
 |     147 | 🎯 Coexisting Chicken and Rabbit Cage                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/177777'>Start Challenge</a> |
-|     148 | 🎯 Calculate Sum of User Inputs                          | ★★☆          | <a target='_blank' href='https://labex.io/labs/109946'>Start Challenge</a> |
+|     148 | 🎯 Continuously Sum Entered Numbers                      | ★★☆          | <a target='_blank' href='https://labex.io/labs/109946'>Start Challenge</a> |
 |     149 | 🎯 Comparing First and Last Array Elements               | ★★☆          | <a target='_blank' href='https://labex.io/labs/109987'>Start Challenge</a> |
 |     150 | 🎯 Finding the Lowest Common Multiple                    | ★★☆          | <a target='_blank' href='https://labex.io/labs/110060'>Start Challenge</a> |
 |     151 | 🎯 Accessing Superclass Constructor                      | ★★☆          | <a target='_blank' href='https://labex.io/labs/109940'>Start Challenge</a> |
@@ -169,16 +169,16 @@ This course contains lots of challenges for Java, each challenge is a small Java
 |     156 | 🎯 Palindrome Number Check                               | ★★★          | <a target='_blank' href='https://labex.io/labs/110088'>Start Challenge</a> |
 |     157 | 🎯 When Can I Save Enough Money                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/177537'>Start Challenge</a> |
 |     158 | 🎯 Identifying Abundant Numbers Using Java               | ★★★          | <a target='_blank' href='https://labex.io/labs/109926'>Start Challenge</a> |
-|     159 | 🎯 Determining Self-Dividing Numbers                     | ★★★          | <a target='_blank' href='https://labex.io/labs/110118'>Start Challenge</a> |
+|     159 | 🎯 Identify Self-Dividing Numbers                        | ★★★          | <a target='_blank' href='https://labex.io/labs/110118'>Start Challenge</a> |
 |     160 | 🎯 Obtaining Class Objects of Different Classes          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/189434'>Start Challenge</a> |
 |     161 | 🎯 How Many Days in Each Month                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/177872'>Start Challenge</a> |
-|     162 | 🎯 Check Prime Number                                    | ★★☆          | <a target='_blank' href='https://labex.io/labs/109985'>Start Challenge</a> |
+|     162 | 🎯 Determine Prime Number Status                         | ★★☆          | <a target='_blank' href='https://labex.io/labs/109985'>Start Challenge</a> |
 |     163 | 🎯 Determining Prime Number Status                       | ★★☆          | <a target='_blank' href='https://labex.io/labs/110092'>Start Challenge</a> |
 |     164 | 🎯 Enum Constants as Strings                             | ★★☆          | <a target='_blank' href='https://labex.io/labs/110114'>Start Challenge</a> |
 |     165 | 🎯 Implement a Stock class                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/185155'>Start Challenge</a> |
-|     166 | 🎯 Calculate Rectangle Area                              | ★★☆          | <a target='_blank' href='https://labex.io/labs/109952'>Start Challenge</a> |
+|     166 | 🎯 Calculate Rectangle Area Using Class                  | ★★☆          | <a target='_blank' href='https://labex.io/labs/109952'>Start Challenge</a> |
 |     167 | 🎯 Subtraction of Coordinates                            | ★★☆          | <a target='_blank' href='https://labex.io/labs/110125'>Start Challenge</a> |
-|     168 | 🎯 Adding Complex Numbers                                | ★★☆          | <a target='_blank' href='https://labex.io/labs/109948'>Start Challenge</a> |
+|     168 | 🎯 Perform Complex Number Addition                       | ★★☆          | <a target='_blank' href='https://labex.io/labs/109948'>Start Challenge</a> |
 |     169 | 🎯 Modify Elements in HashMap                            | ★★☆          | <a target='_blank' href='https://labex.io/labs/109969'>Start Challenge</a> |
 |     170 | 🎯 Removing Elements from a HashMap                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/110112'>Start Challenge</a> |
 |     171 | 🎯 Multiple Class Method Overriding                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/110084'>Start Challenge</a> |
@@ -187,10 +187,10 @@ This course contains lots of challenges for Java, each challenge is a small Java
 |     174 | 🎯 Adding Elements to ArrayLists at Specific Index       | ★★☆          | <a target='_blank' href='https://labex.io/labs/109942'>Start Challenge</a> |
 |     175 | 🎯 Adding Elements to ArrayList                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/110001'>Start Challenge</a> |
 |     176 | 🎯 Reverse One-Dimensional Array in Java                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/171825'>Start Challenge</a> |
-|     177 | 🎯 Determining IcyHot Temperature                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/110045'>Start Challenge</a> |
+|     177 | 🎯 Checking IcyHot Temperature Using Java                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/110045'>Start Challenge</a> |
 |     178 | 🎯 Implement Interface to Calculate Square Area          | ★★★          | <a target='_blank' href='https://labex.io/labs/110051'>Start Challenge</a> |
 |     179 | 🎯 Find Differences Between Two Hashsets                 | ★★☆          | <a target='_blank' href='https://labex.io/labs/110018'>Start Challenge</a> |
-|     180 | 🎯 Find Longer String                                    | ★★★          | <a target='_blank' href='https://labex.io/labs/110022'>Start Challenge</a> |
+|     180 | 🎯 Determine Longer String From Inputs                   | ★★★          | <a target='_blank' href='https://labex.io/labs/110022'>Start Challenge</a> |
 |     181 | 🎯 Printing Individual Characters in a String            | ★★☆          | <a target='_blank' href='https://labex.io/labs/109938'>Start Challenge</a> |
 |     182 | 🎯 Efficient Student Grade Analysis Program              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/185157'>Start Challenge</a> |
 |     183 | 🎯 Counting the Occurrences of a Substring               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/177868'>Start Challenge</a> |
@@ -205,13 +205,13 @@ This course contains lots of challenges for Java, each challenge is a small Java
 |     192 | 🎯 Method Overloading for Different Parameters           | ★★★          | <a target='_blank' href='https://labex.io/labs/110066'>Start Challenge</a> |
 |     193 | 🎯 Divide Apples with Exception Handling                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/176585'>Start Challenge</a> |
 |     194 | 🎯 Release Scanner Resource using finally                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/197789'>Start Challenge</a> |
-|     195 | 🎯 Building a Simple Calculator                          | ★★☆          | <a target='_blank' href='https://labex.io/labs/110003'>Start Challenge</a> |
-|     196 | 🎯 Managing Employee Salary with Encapsulation           | ★★★          | <a target='_blank' href='https://labex.io/labs/110011'>Start Challenge</a> |
+|     195 | 🎯 Create a Calculator Program                           | ★★☆          | <a target='_blank' href='https://labex.io/labs/110003'>Start Challenge</a> |
+|     196 | 🎯 Encapsulating Employee Salary Management              | ★★★          | <a target='_blank' href='https://labex.io/labs/110011'>Start Challenge</a> |
 |     197 | 🎯 Design and Implementation of Multiple Interfaces      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/179708'>Start Challenge</a> |
 |     198 | 🎯 Narcissistic Number Judgment                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/189436'>Start Challenge</a> |
 |     199 | 🎯 Area Calculation Program using Abstraction            | ★★★          | <a target='_blank' href='https://labex.io/labs/109954'>Start Challenge</a> |
 |     200 | 🎯 Print Value of Any Data Type                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/110106'>Start Challenge</a> |
-|     201 | 🎯 Employee Management File Integration                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300363'>Start Challenge</a> |
+|     201 | 🎯 Employee Management File Integration (Challenge)      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300363'>Start Challenge</a> |
 |     202 | 🎯 Method Overloading with Different Parameter Types     | ★★★          | <a target='_blank' href='https://labex.io/labs/110068'>Start Challenge</a> |
 |     203 | 🎯 Print Any Type of Data                                | ★★☆          | <a target='_blank' href='https://labex.io/labs/110096'>Start Challenge</a> |
 |     204 | 🎯 Accessing Overridden Method of Superclass             | ★★☆          | <a target='_blank' href='https://labex.io/labs/109932'>Start Challenge</a> |
@@ -254,10 +254,10 @@ This course contains lots of challenges for Java, each challenge is a small Java
 |     241 | 🎯 File Content Filtering                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/179704'>Start Challenge</a> |
 |     242 | 🎯 Operations with Method References                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/188924'>Start Challenge</a> |
 |     243 | 🎯 Handling Incorrect Grades                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/188206'>Start Challenge</a> |
-|     244 | 🎯 Merge Multiple Files Alternately                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300381'>Start Challenge</a> |
+|     244 | 🎯 Merge Multiple Files Alternately (Challenge)          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300381'>Start Challenge</a> |
 |     245 | 🎯 Bank Account Program                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/176593'>Start Challenge</a> |
 |     246 | 🎯 Using Inheritance to Save Code                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/177538'>Start Challenge</a> |
-|     247 | 🎯 Search for Text Files in Directory                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300395'>Start Challenge</a> |
+|     247 | 🎯 Search for Text Files in Directory (Challenge)        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300395'>Start Challenge</a> |
 |     248 | 🎯 Enum Class for Gender Information                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/188918'>Start Challenge</a> |
 |     249 | 🎯 Implement Countdown Timer Thread                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/179696'>Start Challenge</a> |
 |     250 | 🎯 Optimizing Threaded Relay Race Simulation             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/177932'>Start Challenge</a> |
@@ -272,7 +272,7 @@ This course contains lots of challenges for Java, each challenge is a small Java
 |     259 | 🎯 Launching Wayne's Automated Height Calculation        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/270920'>Start Challenge</a> |
 |     260 | 🎯 Stair Climbing and Balance Prediction                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/259675'>Start Challenge</a> |
 |     261 | 🎯 Navigating Space Bridge with Java Arrays              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/266729'>Start Challenge</a> |
-|     262 | 🎯 Course Schedule CRUD With MyBatis                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300353'>Start Challenge</a> |
+|     262 | 🎯 Course Schedule CRUD With MyBatis (Challenge)         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300353'>Start Challenge</a> |
 
 ## More
 
