@@ -13,7 +13,7 @@ This course contains lots of challenges for Java, each challenge is a small Java
 |---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |     001 | 🎯 Sibling Money Division Game                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/270905'>Start Challenge</a> |
 |     002 | 🎯 Sum of Three-Digit Number's Digits                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211066'>Start Challenge</a> |
-|     003 | 🎯 Sum Of Large Numbers                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/255362'>Start Challenge</a> |
+|     003 | 🎯 Sum of Large Numbers                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/255362'>Start Challenge</a> |
 |     004 | 🎯 Optimal Coin Selection for Spring Purchase            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/262418'>Start Challenge</a> |
 |     005 | 🎯 Strength Training with Accumulative Method            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/293449'>Start Challenge</a> |
 |     006 | 🎯 Simulating a Library                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/215203'>Start Challenge</a> |
@@ -91,7 +91,7 @@ This course contains lots of challenges for Java, each challenge is a small Java
 |     078 | 🎯 Calculate BMI Using Weight and Height                 | ★★☆          | <a target='_blank' href='https://labex.io/labs/109963'>Start Challenge</a> |
 |     079 | 🎯 Calculate Interest Based on Principal                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/109967'>Start Challenge</a> |
 |     080 | 🎯 Fahrenheit to Celsius Conversion Program              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/109989'>Start Challenge</a> |
-|     081 | 🎯 Convert Between Kilometers And Miles Using Java       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/109993'>Start Challenge</a> |
+|     081 | 🎯 Convert Between Kilometers and Miles Using Java       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/109993'>Start Challenge</a> |
 |     082 | 🎯 Pound to Kilogram Conversion Program                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/109995'>Start Challenge</a> |
 |     083 | 🎯 Distribute Chocolates To Children                     | ★★☆          | <a target='_blank' href='https://labex.io/labs/110007'>Start Challenge</a> |
 |     084 | 🎯 Calculate Cube Volume From Side                       | ★★☆          | <a target='_blank' href='https://labex.io/labs/110026'>Start Challenge</a> |
