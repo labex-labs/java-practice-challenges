@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                     | Difficulty   | Practice                                                                                                                                    |
-|---------|----------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | Practice                                                                                                                                    |
+|---------|---------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------|
 |     001 | 🎯 Sibling Money Division Game                           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-sibling-money-division-game-270905'>Start Challenge</a>                            |
 |     002 | 🎯 Sum of Three-Digit Number's Digits                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-sum-of-three-digit-number-s-digits-211066'>Start Challenge</a>                     |
 |     003 | 🎯 Sum of Large Numbers                                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-sum-of-large-numbers-255362'>Start Challenge</a>                                   |
